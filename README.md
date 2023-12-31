@@ -39,11 +39,11 @@
 
 ## Output
 
-<img width="573" alt="2 1" src="https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/4e353111-bc65-4502-862b-a27d589c051f">
+![3 1](https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/e1f37b6c-0d92-4641-a3b6-32dc7ca73a8f)
 
-<img width="556" alt="2 2" src="https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/9cbf4621-9035-4948-a416-a1c09da31f26">
+![3 2](https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/11f7f286-56b5-4f50-9474-672274004f9c)
 
-<img width="573" alt="2 3" src="https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/459639f4-1f35-40dc-890b-8d4baa4f399a">
+![3 3](https://github.com/HariharanJayavel/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/144870546/cdbb33b6-0be6-4746-9b1b-f0051e3b7aab)
 
 ### Name:HARIHARAN J
 ### Register Number:212223240047
